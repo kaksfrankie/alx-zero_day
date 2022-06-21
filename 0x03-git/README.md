@@ -1,1 +1,2 @@
-Git folder for my work.
+updating my git readme
+
